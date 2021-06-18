@@ -1,0 +1,5 @@
+//SAMPLE JOB(TESTJCL,XXXXXX),CLASS = A,MSGCLASS = C
+//STEP1 EXEC PGM = HELLO
+
+
+^ JCL to perform helloCobol.cbl helloCobol2.cbl
